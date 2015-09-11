@@ -1,3 +1,10 @@
+# About this fork
+
+This fork make things work between the Parse Plugin, and the Cordova Facebook Plugin.
+
+It solves the [duplicate symbol issue](https://github.com/avivais/phonegap-parse-plugin/issues/67).
+
+
 Phonegap Parse.com Plugin
 =========================
 
