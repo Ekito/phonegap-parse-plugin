@@ -86,7 +86,6 @@
         <framework src="libz.dylib" />
         <framework src="libsqlite3.dylib" />
 
-        <framework src="src/ios/Frameworks/Bolts.framework" custom="true" />
         <framework src="src/ios/Frameworks/Parse.framework" custom="true" />
     </platform>
 	
